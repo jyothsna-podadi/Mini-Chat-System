@@ -7,7 +7,7 @@ A simple Object-Oriented Programming (OOP) based chat room simulation built in P
 * Multiple users can join a chat room
 * Send messages to the chat room
 * Automatic message IDs
-* Chat history storage
+* Chat history storage 
 * Join and leave functionality
 * OOP concepts implementation
 
