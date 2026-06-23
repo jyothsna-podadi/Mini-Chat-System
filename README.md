@@ -18,7 +18,7 @@ A simple Object-Oriented Programming (OOP) based chat room simulation built in P
 ## Project Structure
 
 ```text
-chatroom.py
+chat.py
 README.md
 .gitignore
 ```
